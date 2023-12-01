@@ -1,7 +1,7 @@
 [
     {
         "name": "Faculty of Sciences",
-        "name_el": "Σχολή Θετικών Επιστημών"
+        "name_el": "Σχολή Θετικών Επιστημών",
         "coordinates": [
             40.63405427059443,
             22.956504569317843
@@ -9,10 +9,50 @@
     },
     {
         "name": "Main AUTh Campus",
-        "name_el": "Κύριος χώρος του ΑΠΘ"
+        "name_el": "Κύριος χώρος του ΑΠΘ",
         "coordinates": [
             40.63182425082954,
             22.959049527401312
+        ]
+    },
+    {
+        "name": "AHEPA Hospital",
+        "name_el": "Νοσοκομείο ΑΧΕΠΑ",
+        "coordinates": [
+            40.62982479657748, 
+            22.96007956112098
+        ]
+    },
+    {
+        "name": "Polytechnic School",
+        "name_el": "Πολυτεχνείο",
+        "coordinates":[
+            40.6290132419089, 
+            22.958852460402234
+        ]
+    },
+    {
+        "name": "Department of Architectural Engineering",
+        "name_el": "Τμήμα Αρχιτεκτόνων Μηχανικών",
+        "coordinates": [
+            40.62833414523201, 
+            22.95949074444663
+        ]
+    },
+    {
+        "name": "Department of Civil Engineering",
+        "name_el": "Τμήμα Πολιτικών Μηχανικών",
+        "coordinates":[
+            40.628040832340574, 
+            22.959769231195068
+        ]
+    },
+    {
+        "name": "Department of Electrical and Computer Engineering",
+        "name_el": "Τμήμα Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών",
+        "coordinates":[
+            40.62736347881813, 
+            22.9599038231896
         ]
     }
 ]
