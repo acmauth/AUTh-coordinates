@@ -8,14 +8,6 @@
         ]
     },
     {
-        "name": "Main AUTh Campus",
-        "name_el": "Κύριος χώρος του ΑΠΘ",
-        "coordinates": [
-            40.63182425082954,
-            22.959049527401312
-        ]
-    },
-    {
         "name": "AHEPA Hospital",
         "name_el": "Νοσοκομείο ΑΧΕΠΑ",
         "coordinates": [
@@ -53,6 +45,38 @@
         "coordinates":[
             40.62736347881813, 
             22.9599038231896
+        ]
+    },
+    {
+       "name": "Department of Chemical Engineering", 
+       "name_el": "Τμήμας Χημικών Μηχανικών", 
+       "coordinates":[
+            40.62702851410389, 
+            22.960192655603613
+       ]
+    },
+    {
+        "name": "Panagis Panagiotopoulos Auditorium",
+        "name_el": "Αμφιθέατρο Παναγή Παναγιωτόπουλου",
+        "coordinates":[
+            40.628667223751066, 
+            22.958276751252285
+        ]
+    },
+    {
+        "name": "Cafeteria of Polytechnic School of AUTh",
+        "name_el": "Κυλικείο Πολυτεχνικής Σχολής Α.Π.Θ",
+        "coordinates":[
+            40.62822263640539, 
+            22.9587158400118
+        ]
+    },
+    {
+        "name": "Main AUTh Campus",
+        "name_el": "Κύριος χώρος του ΑΠΘ",
+        "coordinates": [
+            40.63182425082954,
+            22.959049527401312
         ]
     }
 ]
